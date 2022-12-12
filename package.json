@@ -1,0 +1,34 @@
+{
+  "name": "gbl.js",
+  "version": "1.0.3",
+  "description": "The official javascript module of the Guilded.best website's API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilded-best/gbl.js.git"
+  },
+  "keywords": [
+    "GBL",
+    "GSL",
+    "guilded",
+    "bot-list",
+    "guilded.ts",
+    "guilded.js",
+    "server-list",
+    "api",
+    "guilded.best"
+  ],
+  "author": "Guilded-Best",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guilded-best/gbl.js/issues"
+  },
+  "homepage": "https://github.com/Guilded-best/gbl.js#readme",
+  "dependencies": {
+    "gbl.js": "^1.0.3",
+    "node-fetch": "^2.6.7"
+  }
+}
